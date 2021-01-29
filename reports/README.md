@@ -9,10 +9,10 @@ https://github.com/Polina-lab-web/ProjectIS/projects
 
 ## Индивидуальные планы работы
 
-- [Жабина П.А](zhabina.md)
-- [Петрова Ю.С.](petrova.md)
-- [Азарова Е.А.](azarova.md)
-- [Полякова В.М.](polyakova.md)
+- [Жабина П.А](Zhabina.md)
+- [Петрова Ю.С.](Petrova.md)
+- [Азарова Е.А.](Azarova.md)
+- [Полякова В.М.](Polyakova.md)
 
 ## Отчёт
 
