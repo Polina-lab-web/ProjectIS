@@ -13,6 +13,7 @@
 желаемую услугу или продукт, не выходя из дома
 
 Сайт интернет-магазина: http://pikasso2.beget.tech/
+Презентация проекта : https://docs.google.com/presentation/d/1obz7LfFbrW3Iw3uArcveztkFjv-7RcLI/edit#slide=id.p1
 ## Участники
 
 | Учебная группа | Имя пользователя | ФИО                      |
