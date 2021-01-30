@@ -4,6 +4,7 @@
 Создайте в этой папке файлы в формате Markdown с индивидуальными планами работы, по одному на каждого участника проекта.
 
 ## План-график работы над проектом
+https://drive.google.com/drive/folders/1R9aMv3K4sgJCGMlgYq-9CjKiXlJIs8Fp
 
 https://github.com/Polina-lab-web/ProjectIS/projects
 
